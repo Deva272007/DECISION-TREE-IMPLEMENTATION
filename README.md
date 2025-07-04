@@ -48,6 +48,7 @@ The notebook demonstrates a fundamental but complete machine learning task using
 
 *OUTPUT* =
 
+![Image](https://github.com/user-attachments/assets/29181514-c35e-4691-bfc6-c4fa30f11f42)
 
 
 
